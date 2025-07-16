@@ -25,13 +25,7 @@ const projects=[
         description:"Jobby is the app built in the name of flexibility and transparency through which you can access hundreds of job opportunities every day.",
         projectUrl:"https://devjobby.ccbp.tech/login"
     },
-    {
-        id:4,
-        imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXl9EqF0Dbu9oxIz9d_Fe1EAjyo1_bePQC1A&s",
-        name:"AI-Based Web Application with React.js & AWS Cloud APIs",
-        description:"Spot Faces, Age, Gender & Emotions, Discover Objects - Identify What's Around and Find Celebrities - Spot the Stars.",
-        projectUrl:"https://reactvthai.ccbp.tech/"
-    }
+    
 ]
 
 const Projects = () => {
