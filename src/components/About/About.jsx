@@ -22,7 +22,7 @@ const About = () => {
                 <div className="about-skill">
                     <p>HTML & CSS</p><hr className="line" style={{width:"80%"}}/>
                     <p>JavaScript</p><hr style={{width:"70%"}}/>
-                    <p>React.js</p><hr style={{width:"80%"}}/>
+                    <p>Docker</p><hr style={{width:"80%"}}/>
                     <p>Node.js</p><hr style={{width:"75%"}}/>
                     <p>MySQL</p><hr style={{width:"70%"}}/>
                     <p>python</p><hr style={{width:"80%"}}/>

@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div id="home" className='home'>
       <img src={profile} alt="profile" height="350px" width="300px"/>
-      <h1><span>I'm Rishitha Bairy</span>, Full stack Techie at NxtWave 4.0 Academy</h1>
+      <h1><span>I'm Rishitha Bairy</span>, Full stack Techie at NIAT</h1>
       <div className='icons'>
          <a href="https://github.com/Rishitha23092006"><FaGithub className='icon' /></a>
          <a href="https://www.linkedin.com/in/bairy-rishitha/"><FaLinkedinIn className='icon'/></a>
