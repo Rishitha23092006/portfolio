@@ -16,7 +16,7 @@ const Home = () => {
       </div>
       <div className='home-action'>
         <div className="home-connect"><AnchorLink className="anchor-link" offset={50} href="#contact">Connect with me</AnchorLink></div>
-        <div className="home-resume"><a className='anchor-link' href="https://drive.google.com/file/d/1txryvWR6YbUIM4yCKE_b1qcTr8LgE2YR/view?usp=sharing">My Resume</a></div>
+        <div className="home-resume"><a className='anchor-link' href="https://drive.google.com/file/d/1Zw3LGHFRr0qJN5rUuabP5ASLA2TUDeWr/view?usp=sharing">My Resume</a></div>
       </div>
     </div>
   )
