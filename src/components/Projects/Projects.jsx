@@ -9,21 +9,21 @@ const projects=[
         imageUrl:"https://cdn.dribbble.com/userupload/11224083/file/original-3d2769866b4db0ae0c4fc7a7b1ed3687.png?resize=450x338&vertical=center",
         name:"Crypto-verse Application With React.Js and Redux Toolkit",
         description:"Provides the information like total number of cryptocurrencies, total markets and market caps.",
-        projectUrl:"https://crypto-verse-app.vercel.app/"
+        projectUrl:"http://20.124.93.88"
     },
     {
         id:2,
-        imageUrl:"https://ehopper.com/wp-content/uploads/best-ecommerce-website-design-examples-1800x1013.png",
-        name:"NxtTrends E-com",
-        description:"Helpful for the users to view the products and add them into the cart And sort the products based on there prices, ratings and categories.",
-        projectUrl:"https://devwikatrends.ccbp.tech/login"
+        imageUrl:"https://allinpython.com/wp-content/uploads/2022/06/Guess-a-number.png",
+        name:"Guess the Number ",
+        description:"A fun and interactive number guessing game built using HTML, CSS, and JavaScript. The player tries to guess a randomly generated number with real-time feedback and score tracking.",
+        projectUrl:"https://game1230.niat.tech/"
     },
     {
         id:3,
-        imageUrl:"https://screenshots.codesandbox.io/kuzd2s/0.png",
-        name:"Jobby Application",
-        description:"Jobby is the app built in the name of flexibility and transparency through which you can access hundreds of job opportunities every day.",
-        projectUrl:"https://devjobby.ccbp.tech/login"
+        imageUrl:"https://static.vecteezy.com/system/resources/previews/029/619/723/non_2x/homepage-of-wikipedia-website-on-the-display-of-pc-url-wikipedia-org-free-photo.jpg",
+        name:"Wikipidia Website",
+        description:"The site features responsive design, internal navigation, and a user-friendly interface to simulate the look and feel of the real Wikipedia experience.",
+        projectUrl:"https://wikiport.niat.tech/"
     },
     
 ]
